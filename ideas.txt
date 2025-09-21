@@ -3,3 +3,4 @@
 - black hole orbits?
 - show how integration works i guess
 - prime distribution: prime number theorem(compare π(n) with n/log(n) and Li(n)), prime gaps, riemann hypothesis 👅, prime spirals(using quadratics like euler)
+- laplace transform
