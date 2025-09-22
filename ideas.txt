@@ -1,4 +1,4 @@
-- lorenz attractor
+- chaos theory(lorenz attractor, van der pol oscillator, predictability horizon, use in solar system predictions and weather forecasts, ocean currents)
 - newton-raphson method
 - black hole orbits?
 - show how integration works i guess
